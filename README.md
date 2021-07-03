@@ -15,14 +15,19 @@ MSI-B360M-MORTAR OpenCore
 | 机箱 + 电源 + 散热	  | 随便捡的 + 航嘉hyper550b + 随便捡的 |
 | 显示器		  | DELL U2518D显示器 |
 | 耳机	  | AirPods pro|
-| 键盘	  | Filco |
+| 键盘	  | FILCO |
 | 鼠标	  | G304 |
 
 # BIOS 设置
 参考(https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI#bios-%E8%AE%BE%E7%BD%AE)
 SETTINGS\高级\电源管理设置\ErP Ready [禁止]（我开了允许就会黑，还有都一样）
 # 系统截图
-![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-03%20%E4%B8%8B%E5%8D%8811.51.39.png)
-![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-03%20%E4%B8%8B%E5%8D%8811.51.39.png)
-![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-03%20%E4%B8%8B%E5%8D%8811.51.39.png)
-![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-03%20%E4%B8%8B%E5%8D%8811.51.39.png)
+![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-04%20%E4%B8%8A%E5%8D%8812.24.14.png)
+![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-04%20%E4%B8%8A%E5%8D%8812.24.33.png)
+![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-04%20%E4%B8%8A%E5%8D%8812.25.41.png)
+# 结语
+刚刚装好几天，用的还行，没有什么明显的bug，后续如果升级硬件会更新
+# 鸣谢
+[黑果小兵](https://blog.daliansky.net/)  
+[OpenCore](https://dortania.github.io/OpenCore-Install-Guide/)  
+[SuperNG6](https://github.com/SuperNG6/MSI-B360-Big-Sur-EFI/blob/master/README.md)
