@@ -15,9 +15,9 @@ MSI-B360M-MORTAR OpenCore
 | 无线 + 蓝牙  | 博通 BCM94352HMB + PCIE转接卡|
 | 机箱 + 电源 + 散热	  | 随便捡的 + 航嘉hyper550b + 随便捡的 |
 | 显示器		  | DELL U2518D显示器 |
-| 耳机	  | AirPods pro|
+| 耳机	  | AirPods Pro|
 | 键盘	  | FILCO |
-| 鼠标	  | G304 |
+| 鼠标	  | 罗技G304 |
 
 # BIOS 设置
 参考(https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI#bios-%E8%AE%BE%E7%BD%AE)  
