@@ -1,6 +1,7 @@
 # MSI-B360M-MORTAR-OpenCore
 MSI-B360M-MORTAR OpenCore
-此 EFI 使用macmini,8机型，硬件看下表格，OpenCore 版本：0.7.0
+此 EFI 使用macmini,8机型，硬件看下表格，OpenCore 版本：0.7.0  
+注意替换三码!!!!!!!!!!!!!!
 # 系统介绍
 ![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-03%20%E4%B8%8B%E5%8D%8811.51.39.png)
 # 硬件介绍
@@ -19,7 +20,7 @@ MSI-B360M-MORTAR OpenCore
 | 鼠标	  | G304 |
 
 # BIOS 设置
-参考(https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI#bios-%E8%AE%BE%E7%BD%AE)
+参考(https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI#bios-%E8%AE%BE%E7%BD%AE)  
 SETTINGS\高级\电源管理设置\ErP Ready [禁止]（我开了允许就会黑，还有都一样）
 # 系统截图
 ![RUNOOB 系统](https://github.com/monsteree/MSI-B360M-MORTAR-OpenCore/blob/main/images/%E6%88%AA%E5%B1%8F2021-07-04%20%E4%B8%8A%E5%8D%8812.24.14.png)
